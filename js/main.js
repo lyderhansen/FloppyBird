@@ -77,7 +77,7 @@ function showSplash()
    currentstate = states.SplashScreen;
    
    //set the defaults (again)
-   velocity = 0;
+   velocity = 100;
    position = 180;
    rotation = 0;
    score = 0;
