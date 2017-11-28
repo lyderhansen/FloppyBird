@@ -12,13 +12,13 @@ var gravity = 0.5;
 var velocity = 1;
 var position = 180;
 var rotation = 1;
-var jump = 0;
+var jump = -4.6;
 var flyArea = $("#flyarea").height();
 
 var score = 0;
 var highscore = 0;
 
-var pipeheight = 300;
+var pipeheight = 400;
 var pipewidth = 52;
 var pipes = new Array();
 
